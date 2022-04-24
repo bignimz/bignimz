@@ -10,6 +10,9 @@
 
 I'm a Passionate Full Stack Software Developer with a passion to help startup businesses transition their businesses online through well designed, responsive and scalable solutions that are future-proof using latest design trends and technology. 
 
+### Languages & Tools I Use
+<br>
+
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="70" height="70"/>&nbsp;
