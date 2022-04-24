@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-I'm a Passionate Full Stack Software Developer with over 3 years of work experience helping startup businesses transition their businesses online through well designed, responsive and scalable solutions that are future-proof using latest design trends and technology. 
+I'm a Passionate Full Stack Software Developer with a passion to help startup businesses transition their businesses online through well designed, responsive and scalable solutions that are future-proof using latest design trends and technology. 
 
 <!--
 **bignimz/bignimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
