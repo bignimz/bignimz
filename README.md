@@ -23,7 +23,11 @@ I'm a Passionate Full Stack Software Developer with a passion to help startup bu
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="Angularjs" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="70"/>&nbsp;
+</div>
 
+### :fire: My Github Status :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bignimz&date_format=M%20j%5B%2C%20Y%5D&sideLabels=BB2727)](https://git.io/streak-stats)
 <!--
 **bignimz/bignimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
