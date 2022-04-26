@@ -28,6 +28,9 @@ I'm a Passionate Full Stack Software Developer with a passion to help startup bu
 ### :fire: My Github Status :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bignimz&date_format=M%20j%5B%2C%20Y%5D&sideLabels=BB2727)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bignimz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bignimz/bignimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
