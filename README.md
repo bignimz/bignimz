@@ -10,7 +10,7 @@
 
 I'm a Passionate Full Stack Software Developer with a passion to help startup businesses transition their businesses online through well designed, responsive and scalable solutions that are future-proof using latest design trends and technology. 
 
-## Languages & Tools I Use
+# Languages & Tools I Use
 <br>
 
 ## Frontend Development
@@ -31,8 +31,10 @@ I'm a Passionate Full Stack Software Developer with a passion to help startup bu
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="Python" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
 </div>
 
 ### :fire: My Github Status :
