@@ -25,6 +25,7 @@ I'm a Full Stack Software Developer with a passion to help startup businesses tr
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="70" height="70"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="Angularjs" width="70" height="70"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="70" height="70"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain-wordmark.svg" title="ReactJs" alt="React" width="70" height="70"/>&nbsp;
 </div>
 
 ## Backend Development
