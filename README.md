@@ -10,7 +10,7 @@
 
 #### My name is Nimrod Musungu,
 
-I'm a Full Stack Software Developer with an exclusive passion in PHP & WordPress Themes & Plugin development, to help startup businesses transition their businesses online through well designed, responsive and scalable solutions that are future-proof using latest design trends and technology. 
+I'm a Full Stack Software Developer with an exclusive passion in PHP & WordPress Themes & Plugin development. I also love to develop secure REST API's using Django & Django Rest Framework.
 
 # Languages & Tools I Use
 <br>
